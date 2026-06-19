@@ -2,14 +2,12 @@
 
 Computer Science @ Kangwon National University
 
-## Research InterestsResearch Interests
+## Research Interests
 - Large Language Models (LLMs)
 - LLM Alignment and Controllability 
 - Agentic AI
 - Natural Language Processing (NLP)
 - Retrieval-Augmented Generation (RAG)
-
-## Projects
 
 ## Projects
 
